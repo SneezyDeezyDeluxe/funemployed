@@ -8,7 +8,7 @@ const App = () => {
     <div>
       <Navbar />
       <Routes />
-      Hi there!
+      sdhfkjsdfhjk
     </div>
   )
 }
